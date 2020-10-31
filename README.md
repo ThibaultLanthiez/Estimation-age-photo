@@ -1,5 +1,5 @@
 # Estimation-age-photo
 
-[Code](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku/blob/main/Projet_6_Classification_Breast_Cancer.ipynb)
+[Code](https://github.com/ThibaultLanthiez/Estimation-age-photo/blob/main/Age%20estimation.ipynb)
 
 [Retour](https://github.com/ThibaultLanthiez/Portfolio)
