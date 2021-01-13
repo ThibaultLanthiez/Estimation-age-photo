@@ -18,4 +18,4 @@ Je pense que mon modèle est améliorable. Ses performances ne sont pas satisfai
 
 # Code
 
-Voici le code du projet : [notebook](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers/blob/main/R%C3%A9gression%20prix%20de%20vente%20biens%20immobiliers.ipynb)
+Voici le code du projet : [notebook](https://github.com/ThibaultLanthiez/Estimation-age-photo/blob/main/Age%20estimation.ipynb)
