@@ -1,6 +1,6 @@
 [:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
-<img src="https://github.com/ThibaultLanthiez/Estimation-age-photo/blob/main/image-data.PNG" width="140%" and height="120%"/>
+<img src="https://github.com/ThibaultLanthiez/Estimation-age-photo/blob/main/image-data.PNG" width="100%" and height="80%"/>
 
 # Estimation de l'âge d'une personne sur une photo
 
